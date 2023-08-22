@@ -1,2 +1,2 @@
 #0x01-caching
-![caching](https://d1z78r8i505acl.cloudfront.net/poster/KP4EWmcVQpsOt.tfcxsgzx3j.480.jpeg)
+![pix](https://cdn.devdojo.com/images/march2021/lifo.jpg)
